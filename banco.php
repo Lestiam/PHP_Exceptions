@@ -9,7 +9,12 @@ use Alura\Banco\Modelo\Conta\Conta;
 
 $endereco = new Endereco('Petrópolis', 'um bairro', 'minha rua', '71B');
 $vinicius = new Titular(new CPF('123.456.789-10'), 'Vinicius Dias', $endereco);
-$primeiraConta = new Conta($vinicius);
+
+try {
+    $primeiraConta = new Conta($vinicius);
+} catch (Error $e) {
+    echo "Erro pego: " . $e->getMessage();
+}
 $primeiraConta->deposita(500);
 $primeiraConta->saca(300); // isso é ok
 

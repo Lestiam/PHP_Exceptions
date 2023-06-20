@@ -1,0 +1,9 @@
+[20-Jun-2023 18:44:56 UTC] PHP Warning:  Undefined variable $variavel in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 8
+[20-Jun-2023 18:44:56 UTC] PHP Warning:  Undefined variable $array in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:44:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:45:51 UTC] PHP Warning:  Undefined variable $variavel in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 8
+[20-Jun-2023 18:45:51 UTC] PHP Warning:  Undefined variable $array in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:45:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:46:11 UTC] PHP Warning:  Undefined variable $array in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:46:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 9
+[20-Jun-2023 18:49:14 UTC] PHP Warning:  Undefined variable $variavel in C:\Estudo\php\php-exceptions-projeto-inicial\errors.php on line 8
